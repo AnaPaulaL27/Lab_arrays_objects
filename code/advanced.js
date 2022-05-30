@@ -2,7 +2,6 @@
  * These tasks are more complicated! Using combinations of arrays and objects is very common, here you will need to combine what you know about both to complete the tasks.
  */
 
-
 unitedKingdom = [
     {
         name: "Scotland",
