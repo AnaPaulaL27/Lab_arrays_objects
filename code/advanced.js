@@ -81,7 +81,7 @@ if(scotland.population > england.population && wales.population && northernIrela
     console.log("it is the biggest");
 }
 else if(scotland.population <england.population && wales.population && northernIreland.population){
-    console.log("it is smaller");
+    console.log("it is the smallest");
 }
 else{
     console.log("it is in the middle");
