@@ -74,13 +74,13 @@ console.log(northernIrelandKeys);
 
 scotland = unitedKingdom[0];
 england = unitedKingdom[1];
-Wales = unitedKingdom[2];
+wales = unitedKingdom[2];
 northernIreland = unitedKingdom[3];
 
-if(scotland.population > england.population && wales.population && northernIreland.population){
+if(scotland.population > (england.population && wales.population && northernIreland.population)){
     console.log("it is the biggest");
 }
-else if(scotland.population <england.population && wales.population && northernIreland.population){
+else if(scotland.population <(england.population && wales.population && northernIreland.population)){
     console.log("it is the smallest");
 }
 else{
