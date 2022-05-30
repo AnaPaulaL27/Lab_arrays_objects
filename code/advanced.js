@@ -53,7 +53,7 @@ console.log("England tourist attractions: ", england);
  */
 
 
-wales = wales = unitedKingdom[2] = unitedKingdom.capital = "Cardiff";
+wales = unitedKingdom[2] = unitedKingdom.capital = "Cardiff";
 
 console.log("Capital of Wales: ", wales);
 
